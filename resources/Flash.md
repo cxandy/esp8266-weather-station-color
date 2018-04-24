@@ -7,7 +7,8 @@
 ## 2. Download Firmware  ##
 
    [Firmware 20180118](https://github.com/cxandy/esp8266-weather-station-color/tree/master/resources/AZSMZ_TFT_20180118.bin)      
-   [Firmware 20180130](https://github.com/cxandy/esp8266-weather-station-color/blob/master/resources/AZSMZ-TFT-20180130.bin)
+   [Firmware 20180130](https://github.com/cxandy/esp8266-weather-station-color/blob/master/resources/AZSMZ-TFT-20180130.bin)    
+   [Firmware 20180425](https://github.com/cxandy/esp8266-weather-station-color/blob/master/resources/AZSMZ-TFT-20180425.bin)
    
 ## 3. Start flash new Firmware. ##
   
